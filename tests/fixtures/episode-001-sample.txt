@@ -1,0 +1,86 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: A bride is abandoned at the altar for her sister.
+CONTINUITY NOTES: Synthetic sample written for tests (not Kuku content).
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. CHAPEL – DAY
+Scene start: 00:00.00
+Scene end: 00:40.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Wide shot of the chapel doors opening.
+
+**ACTION:**
+Start: (00:00.50) | End: (00:03.50)
+Mara walks in wearing a white gown.
+
+**CAMERA:**
+Start: (00:04.00) | End: (00:09.00)
+Close-up on the groom holding another woman's hand.
+
+**MARA (Shocked, Gasping):**
+Start: (00:04.20) | End: (00:06.00)
+"Why are you holding her hand?"
+
+**SISTER (Smug, Cruel):**
+Start: (00:06.50) | End: (00:08.80)
+"Because he is marrying me!"
+
+**CAMERA:**
+Start: (00:09.00) | End: (00:15.00)
+Close-up on Mara as her father looks away.
+
+**MARA (Desperate, Pleading):**
+Start: (00:09.20) | End: (00:11.50)
+"Father, say something!"
+
+**FATHER (Cold):**
+Start: (00:12.00) | End: (00:14.80)
+"You were never worth the dowry."
+
+**CAMERA:**
+Start: (00:15.00) | End: (00:22.00)
+Medium shot as guards seize Mara by the arms.
+
+**ACTION:**
+Start: (00:15.20) | End: (00:18.00)
+The guards grab Mara and drag her toward the doors.
+
+**MARA (Screaming, Furious):**
+Start: (00:18.20) | End: (00:21.50)
+"Let go of me! You will all regret this!"
+
+**CAMERA:**
+Start: (00:22.00) | End: (00:30.00)
+The doors burst open and a scarred soldier steps in.
+
+**SCARRED SOLDIER (Low, Menacing):**
+Start: (00:24.00) | End: (00:27.00)
+"Take your hands off my wife."
+
+**SISTER (Horrified):**
+Start: (00:27.50) | End: (00:29.80)
+"Your wife? Who are you?"
+
+**CAMERA:**
+Start: (00:30.00) | End: (00:36.00)
+The soldier punches the guard to the floor.
+
+**SOUND FX:**
+Start: (00:30.20) | End: (00:31.00)
+A heavy punch and a thud.
+
+**SOUND FX:**
+Start: (00:34.00) | End: (00:36.00)
+Ominous string drone swells to a cliffhanger.
+
+**CAMERA:**
+Start: (00:36.00) | End: (00:40.00)
+Cut to black.
+
+--- SCRIPT END ---
