@@ -1,0 +1,8 @@
+# Kuku's input pack is confidential: never commit screenplays or outputs containing them
+data/
+shows/
+outputs/
+*.zip
+__pycache__/
+.streamlit/secrets.toml
+.env
